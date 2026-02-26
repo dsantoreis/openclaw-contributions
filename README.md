@@ -1,5 +1,3 @@
-![Hero](assets/hero.png)
-
 <h1 align="center">OpenClaw Contributions</h1>
 
 <p align="center">
@@ -58,7 +56,7 @@ Contributing to a 232K-star project demonstrates:
 
 ## About
 
-**Daniel dos Santo Reis** — AI Engineer based in Zurich, Switzerland.
+**Daniel dos Santos Reis** — AI Engineer based in Zurich, Switzerland.
 Running the largest known multi-agent OpenClaw deployment in Europe (6 agents, 5 gateways, 24/7 operations).
 
 Part of the [Loomix](https://github.com/loomix-ai) ecosystem.
